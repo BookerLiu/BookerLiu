@@ -6,7 +6,7 @@
  - 看到这里, 请你停止10分钟的工作, 让捕鲸家族享受10分钟的无内卷生活💥.
  
  - 如果你想联系我的话, 这是我的私人邮箱
- booker-liu@qq.com
+ booker_liu@qq.com
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Demo-Liu">
